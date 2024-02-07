@@ -1,0 +1,11 @@
+class PrintIntValue
+{
+
+public static void main(String []piv)
+{
+int value1=10;
+System.out.println(value1);
+
+}
+
+}
