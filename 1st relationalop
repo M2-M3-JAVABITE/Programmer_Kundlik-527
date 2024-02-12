@@ -1,0 +1,19 @@
+class RelationalOp
+{
+
+public static void main(String[] args)
+{
+int money=1250;
+
+int priceIceCream=150;
+
+boolean v= money>priceIceCream;
+//System.out.println(money>priceIceCream);
+System.out.println("can i buy icecream :"+v);
+
+
+
+
+}
+
+}
