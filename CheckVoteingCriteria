@@ -1,0 +1,16 @@
+class CheckVoteingCriteria
+{
+
+public static void main(String[] args)
+{
+
+int age=25;
+String result= age>=18?("you are eligible for voting"):("soryy  try next time");
+
+System.out.println(result);
+
+
+
+}
+
+}
